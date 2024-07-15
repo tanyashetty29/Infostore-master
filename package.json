@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "name": "infostore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "tailwindcss build -i src/style.css -o public/style.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
